@@ -1,0 +1,122 @@
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/appsettings.Development.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/appsettings.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/PeopleApi
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/PeopleApi.deps.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/PeopleApi.runtimeconfig.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/PeopleApi.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/PeopleApi.pdb
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Humanizer.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.csproj.AssemblyReference.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.AssemblyInfoInputs.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.AssemblyInfo.cs
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.csproj.CoreCompileInputs.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/staticwebassets.build.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/staticwebassets.development.json
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/scopedcss/bundle/PeopleApi.styles.css
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.csproj.CopyComplete
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/refint/PeopleApi.dll
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.pdb
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/PeopleApi.genruntimeconfig.cache
+/Volumes/Projekty/Prywatne/CDV/IOT/lab2/PeopleApi/obj/Debug/net6.0/ref/PeopleApi.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/appsettings.json
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/PeopleApi
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/PeopleApi.deps.json
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/PeopleApi.runtimeconfig.json
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/PeopleApi.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/PeopleApi.pdb
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Humanizer.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.csproj.AssemblyReference.cache
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.AssemblyInfoInputs.cache
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.AssemblyInfo.cs
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.csproj.CoreCompileInputs.cache
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/scopedcss/bundle/PeopleApi.styles.css
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.csproj.CopyComplete
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/refint/PeopleApi.dll
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.pdb
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/PeopleApi.genruntimeconfig.cache
+/Users/iga/Desktop/lab2 5/PeopleApi/obj/Debug/net6.0/ref/PeopleApi.dll
